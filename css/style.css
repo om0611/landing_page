@@ -9,6 +9,10 @@
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
+a {
+    text-decoration: none;
+}
+
 
 .header {
     height: 60px;
@@ -123,6 +127,7 @@
 
 .person p{
     text-align: center;
+    color: black;
 }
 
 .top .person {
